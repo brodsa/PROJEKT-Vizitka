@@ -41,16 +41,16 @@ h1{
     box-shadow: rgba(0, 0, 0, 0.15) 2.95px 2.95px 2.6px;
 }
 
-.odstavec1{
+.text-first{
     margin-top: 30px;
-
 }
 
-.odstavec2{
+.text-second{
     margin-bottom: 30px;
 }
 
-.tlacitko{
+
+.button{
     font-weight: bold;
     font-size: 18px;
     color: white;
@@ -81,7 +81,7 @@ h1{
 }
 
 
-.profil{
+.pct{
    position: absolute;
    right: -75px;
    top: -75px;
